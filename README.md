@@ -2,7 +2,7 @@
 归纳整理一些开源漏洞版本，因为主要是为了漏洞排查，所以就不加上poc以及exp
 
 # 计划
-计划用golang或是python开发一个查询系统，2月底前实现覆盖200+开源软件
+计划用golang或python开发一个查询系统，2月底前实现覆盖200+开源软件
 
 # 目录
 - [PostgreSQL](https://github.com/light-Life/osSoftware-bug/tree/main/PostgreSQL)

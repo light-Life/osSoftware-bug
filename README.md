@@ -1,5 +1,7 @@
+# 已编写查询脚本，请移步到https://github.com/light-Life/CVE-Search
+
 # osSoftware-bug
-归纳整理一些开源漏洞版本，主要是为了漏洞排查，所以就不加上poc以及exp
+归纳整理一些开源漏洞版本，主要是为了漏洞排查
 
 
 # 最后
